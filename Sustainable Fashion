@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sustainable Capsule Wardrobe</title>
+</head>
+<body>
+
+    <header>
+        <h1>Sustainable Capsule Wardrobe Guide</h1>
+        <p>Your guide to building a stylish and eco-friendly wardrobe.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Why Choose a Capsule Wardrobe?</h2>
+            <p>Learn how to simplify your wardrobe and reduce fashion waste by selecting versatile, timeless pieces.</p>
+        </section>
+
+        <section>
+            <h2>Key Capsule Pieces</h2>
+            <ul>
+                <li>Classic White Shirt</li>
+                <li>Versatile Black Pants</li>
+                <li>Sustainable Denim</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Outfit Ideas</h2>
+            <img src="white-shirt.jpg" alt="Classic White Shirt">
+            <img src="black-pants.jpg" alt="Versatile Black Pants">
+            <img src="sustainable-denim.jpg" alt="Sustainable Denim">
+        </section>
+    </main>
+
+    <footer>
+        <p>Learn more about sustainability at <a href="https://www.sustainablefashion.com" target="_blank">Sustainable Fashion</a>.</p>
+    </footer>
+
+</body>
+</html>
